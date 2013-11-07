@@ -39,7 +39,7 @@ WINDOWS (2000, XP, VISTA, & 7)
 
 	Install Python by double-clicking python.2.6.5.msi and following the onscreen instructions
 	
-	To run Nativity in Bits, double-click the python script (Nativity in Bits-0.9.1.py).
+	To run Nativity in Bits, double-click the python script (NiB.py).
 	
 	If the program doesn't run, the script is probably not in your path.  Trying copying the script to the desktop and double-clicking it.
 	
