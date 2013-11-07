@@ -1,4 +1,4 @@
 Nativity-in-Bits
 ================
 
-A program for randomly generating 3rd edition Dungeons &amp; Dragons PCs.
+A program for randomly generating race, class, and background for Neverwinter Nights characters.
