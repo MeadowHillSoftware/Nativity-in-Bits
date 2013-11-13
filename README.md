@@ -1,4 +1,4 @@
 Nativity-in-Bits
 ================
 
-A program for randomly generating race, class, and background for Neverwinter Nights characters.
+A script for randomly generating race, class, background, and personality for Bioware's Neverwinter Nights characters.
